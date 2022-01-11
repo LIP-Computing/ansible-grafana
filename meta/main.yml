@@ -9,6 +9,7 @@ galaxy_info:
     - name: Ubuntu
       versions:
         - bionic
+        - focal
         - xenial
     - name: Debian
       versions:
